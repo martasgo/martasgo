@@ -1,5 +1,6 @@
-### Hola, Soy Martu 👋, soy Ingeniera en Computación.
-### Gracias por visitar mi perfil 
+### Hola, soy Martu 👋.
+### Soy Ingeniera en Computación.
+### Gracias por visitar mi perfil.
 
 #### Tengo conocimientos sobre:
 <p align="left">
